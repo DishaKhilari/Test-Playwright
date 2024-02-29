@@ -11,7 +11,7 @@ report.generate({
             name: "chrome",
             version: "112",
         },
-        device: "Pankaj's MACBOOK",
+        device: "Dishali's MACBOOK",
         platform: {
             name: "MACOS",
             version: "Latest",

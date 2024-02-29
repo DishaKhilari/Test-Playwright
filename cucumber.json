@@ -21,7 +21,7 @@
             "json:test-result/cucumber-report.json",
             "rerun:@failedScenario.txt"
         ],
-        "parallel": 2
+        "parallel": 1
     },
     "failedScenario":{
         "formatOptions": {

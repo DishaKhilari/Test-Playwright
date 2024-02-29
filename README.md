@@ -16,7 +16,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PankajShinde92/Test-Playwright.git
+   git clone https://github.com/DishaKhilari/Test-Playwright
 
 All scripts for running test are available use following from Package.json:
 
